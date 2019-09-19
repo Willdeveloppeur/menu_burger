@@ -29,6 +29,9 @@
     background-color: rgb(255, 255, 255);
     display: none;
 }
+#menu-right ul{
+    margin-top : 100%;
+}
 
 #menu-left{
     right: 13%;

@@ -17,7 +17,7 @@ function openMenu(){
             { transform: 'translateX(100%)' }, 
             { transform: 'translateX(0%)' }
           ], { 
-            duration: 0
+            duration: 500
           });
           document.getElementById("menu-left").animate([
             { transform: 'translateX(100%)' }, 
